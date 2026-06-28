@@ -1,0 +1,2000 @@
+{
+  "employees": [
+    {
+      "id": "EMP001",
+      "name": "John Doe",
+      "position": "Administrator",
+      "department": "Administration",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "john.doe@garageerp.com",
+        "phone": "+1 (555) 019-2834",
+        "address": "123 Main St, Downtown City"
+      },
+      "hireDate": "2024-01-15",
+      "dob": "1988-05-12",
+      "baseSalary": 6000,
+      "allowance": 500,
+      "bonus": 1000,
+      "overtimeRate": 45,
+      "kpiScore": 95,
+      "productivity": 95,
+      "attendanceRate": 98,
+      "rating": 4.9,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP002",
+      "name": "Alice Smith",
+      "position": "Branch Manager",
+      "department": "Administration",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "alice.smith@garageerp.com",
+        "phone": "+1 (555) 014-9876",
+        "address": "456 Oak Ave, Heights District"
+      },
+      "hireDate": "2024-03-10",
+      "dob": "1985-09-24",
+      "baseSalary": 5500,
+      "allowance": 400,
+      "bonus": 800,
+      "overtimeRate": 40,
+      "kpiScore": 92,
+      "productivity": 90,
+      "attendanceRate": 97,
+      "rating": 4.7,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP003",
+      "name": "Bob Johnson",
+      "position": "Service Advisor",
+      "department": "Service Front",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "bob.j@garageerp.com",
+        "phone": "+1 (555) 012-3456",
+        "address": "789 Pine Rd, Downtown City"
+      },
+      "hireDate": "2024-06-01",
+      "dob": "1992-11-03",
+      "baseSalary": 3800,
+      "allowance": 300,
+      "bonus": 500,
+      "overtimeRate": 25,
+      "kpiScore": 88,
+      "productivity": 85,
+      "attendanceRate": 95,
+      "rating": 4.5,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP004",
+      "name": "David Miller",
+      "position": "Technician",
+      "department": "Workshop",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "david.m@garageerp.com",
+        "phone": "+1 (555) 013-4567",
+        "address": "202 Maple St, Riverdale"
+      },
+      "hireDate": "2024-08-15",
+      "dob": "1990-02-14",
+      "baseSalary": 3200,
+      "allowance": 200,
+      "bonus": 400,
+      "overtimeRate": 20,
+      "kpiScore": 90,
+      "productivity": 92,
+      "attendanceRate": 96,
+      "rating": 4.6,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP005",
+      "name": "Emily Davis",
+      "position": "Technician",
+      "department": "Workshop",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "emily.d@garageerp.com",
+        "phone": "+1 (555) 017-8901",
+        "address": "305 Birch Blvd, Northside"
+      },
+      "hireDate": "2025-01-10",
+      "dob": "1995-07-22",
+      "baseSalary": 3100,
+      "allowance": 200,
+      "bonus": 300,
+      "overtimeRate": 20,
+      "kpiScore": 84,
+      "productivity": 80,
+      "attendanceRate": 94,
+      "rating": 4.2,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP006",
+      "name": "Frank Wilson",
+      "position": "Inventory Staff",
+      "department": "Inventory",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "frank.w@garageerp.com",
+        "phone": "+1 (555) 018-9012",
+        "address": "404 Cedar St, Downtown City"
+      },
+      "hireDate": "2024-11-20",
+      "dob": "1991-04-30",
+      "baseSalary": 2800,
+      "allowance": 150,
+      "bonus": 200,
+      "overtimeRate": 18,
+      "kpiScore": 91,
+      "productivity": 88,
+      "attendanceRate": 96,
+      "rating": 4.4,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP007",
+      "name": "Grace Lee",
+      "position": "Accountant",
+      "department": "Finance",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "grace.l@garageerp.com",
+        "phone": "+1 (555) 019-0123",
+        "address": "505 Elm Rd, Westend"
+      },
+      "hireDate": "2024-05-15",
+      "dob": "1989-10-05",
+      "baseSalary": 4200,
+      "allowance": 250,
+      "bonus": 400,
+      "overtimeRate": 28,
+      "kpiScore": 94,
+      "productivity": 93,
+      "attendanceRate": 97,
+      "rating": 4.6,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP008",
+      "name": "Henry Ford",
+      "position": "Branch Manager",
+      "department": "Administration",
+      "branch": "Branch B (Westside)",
+      "status": "Active",
+      "contact": {
+        "email": "henry.f@garageerp.com",
+        "phone": "+1 (555) 011-2233",
+        "address": "606 Walnut Dr, Westside Valley"
+      },
+      "hireDate": "2024-02-20",
+      "dob": "1983-03-18",
+      "baseSalary": 5300,
+      "allowance": 400,
+      "bonus": 700,
+      "overtimeRate": 38,
+      "kpiScore": 89,
+      "productivity": 88,
+      "attendanceRate": 95,
+      "rating": 4.5,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "EMP009",
+      "name": "Ian Wright",
+      "position": "Service Advisor",
+      "department": "Service Front",
+      "branch": "Branch B (Westside)",
+      "status": "Active",
+      "contact": {
+        "email": "ian.w@garageerp.com",
+        "phone": "+1 (555) 012-4455",
+        "address": "707 Chestnut Ln, Westside Valley"
+      },
+      "hireDate": "2024-09-01",
+      "dob": "1993-08-11",
+      "baseSalary": 3700,
+      "allowance": 300,
+      "bonus": 450,
+      "overtimeRate": 24,
+      "kpiScore": 86,
+      "productivity": 84,
+      "attendanceRate": 94,
+      "rating": 4.3,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "EMP010",
+      "name": "Jack Mason",
+      "position": "Technician",
+      "department": "Workshop",
+      "branch": "Branch B (Westside)",
+      "status": "Active",
+      "contact": {
+        "email": "jack.m@garageerp.com",
+        "phone": "+1 (555) 013-5566",
+        "address": "808 Oak Dr, Westside"
+      },
+      "hireDate": "2024-10-01",
+      "dob": "1987-12-25",
+      "baseSalary": 3300,
+      "allowance": 200,
+      "bonus": 450,
+      "overtimeRate": 21,
+      "kpiScore": 92,
+      "productivity": 94,
+      "attendanceRate": 96,
+      "rating": 4.7,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "EMP011",
+      "name": "Kevin Bacon",
+      "position": "Technician",
+      "department": "Workshop",
+      "branch": "Branch B (Westside)",
+      "status": "Active",
+      "contact": {
+        "email": "kevin.b@garageerp.com",
+        "phone": "+1 (555) 014-6677",
+        "address": "909 Ash Ave, South Hill"
+      },
+      "hireDate": "2025-03-01",
+      "dob": "1998-01-20",
+      "baseSalary": 3000,
+      "allowance": 200,
+      "bonus": 250,
+      "overtimeRate": 20,
+      "kpiScore": 79,
+      "productivity": 75,
+      "attendanceRate": 90,
+      "rating": 3.9,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "EMP012",
+      "name": "Linda Carter",
+      "position": "Receptionist",
+      "department": "Service Front",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "linda.c@garageerp.com",
+        "phone": "+1 (555) 015-7788",
+        "address": "111 Cherry Ct, Downtown City"
+      },
+      "hireDate": "2024-04-15",
+      "dob": "1994-06-15",
+      "baseSalary": 2500,
+      "allowance": 100,
+      "bonus": 150,
+      "overtimeRate": 15,
+      "kpiScore": 95,
+      "productivity": 95,
+      "attendanceRate": 99,
+      "rating": 4.9,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP013",
+      "name": "Michael Jordan",
+      "position": "Technician",
+      "department": "Workshop",
+      "branch": "Branch A (Downtown)",
+      "status": "Active",
+      "contact": {
+        "email": "michael.j@garageerp.com",
+        "phone": "+1 (555) 016-8899",
+        "address": "23 Bulls Blvd, Downtown City"
+      },
+      "hireDate": "2024-02-01",
+      "dob": "1986-02-17",
+      "baseSalary": 3500,
+      "allowance": 200,
+      "bonus": 500,
+      "overtimeRate": 22,
+      "kpiScore": 97,
+      "productivity": 98,
+      "attendanceRate": 98,
+      "rating": 4.9,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "EMP014",
+      "name": "Nancy Drew",
+      "position": "Inventory Staff",
+      "department": "Inventory",
+      "branch": "Branch B (Westside)",
+      "status": "Active",
+      "contact": {
+        "email": "nancy.d@garageerp.com",
+        "phone": "+1 (555) 017-9900",
+        "address": "404 Mystery Rd, Westside"
+      },
+      "hireDate": "2024-07-20",
+      "dob": "1993-05-15",
+      "baseSalary": 2900,
+      "allowance": 150,
+      "bonus": 200,
+      "overtimeRate": 19,
+      "kpiScore": 92,
+      "productivity": 90,
+      "attendanceRate": 95,
+      "rating": 4.5,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "EMP015",
+      "name": "Oscar Wilde",
+      "position": "Accountant",
+      "department": "Finance",
+      "branch": "Branch B (Westside)",
+      "status": "Active",
+      "contact": {
+        "email": "oscar.w@garageerp.com",
+        "phone": "+1 (555) 018-0011",
+        "address": "505 Poet Ct, Westside"
+      },
+      "hireDate": "2024-05-01",
+      "dob": "1984-10-16",
+      "baseSalary": 4100,
+      "allowance": 250,
+      "bonus": 350,
+      "overtimeRate": 27,
+      "kpiScore": 90,
+      "productivity": 89,
+      "attendanceRate": 94,
+      "rating": 4.4,
+      "branchId": "BR-02"
+    }
+  ],
+  "shifts": [
+    {
+      "id": "S001",
+      "date": "2026-06-22",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Completed"
+    },
+    {
+      "id": "S002",
+      "date": "2026-06-22",
+      "type": "Afternoon",
+      "employeeId": "EMP005",
+      "status": "Completed"
+    },
+    {
+      "id": "S003",
+      "date": "2026-06-22",
+      "type": "Morning",
+      "employeeId": "EMP013",
+      "status": "Completed"
+    },
+    {
+      "id": "S004",
+      "date": "2026-06-22",
+      "type": "Morning",
+      "employeeId": "EMP010",
+      "status": "Completed"
+    },
+    {
+      "id": "S005",
+      "date": "2026-06-22",
+      "type": "Afternoon",
+      "employeeId": "EMP011",
+      "status": "Completed"
+    },
+    {
+      "id": "S006",
+      "date": "2026-06-23",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Completed"
+    },
+    {
+      "id": "S007",
+      "date": "2026-06-23",
+      "type": "Afternoon",
+      "employeeId": "EMP005",
+      "status": "Completed"
+    },
+    {
+      "id": "S008",
+      "date": "2026-06-23",
+      "type": "Morning",
+      "employeeId": "EMP013",
+      "status": "Completed"
+    },
+    {
+      "id": "S009",
+      "date": "2026-06-23",
+      "type": "Morning",
+      "employeeId": "EMP010",
+      "status": "Completed"
+    },
+    {
+      "id": "S010",
+      "date": "2026-06-24",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Completed"
+    },
+    {
+      "id": "S011",
+      "date": "2026-06-24",
+      "type": "Afternoon",
+      "employeeId": "EMP005",
+      "status": "Completed"
+    },
+    {
+      "id": "S012",
+      "date": "2026-06-24",
+      "type": "Morning",
+      "employeeId": "EMP013",
+      "status": "Completed"
+    },
+    {
+      "id": "S013",
+      "date": "2026-06-24",
+      "type": "Afternoon",
+      "employeeId": "EMP011",
+      "status": "Completed"
+    },
+    {
+      "id": "S014",
+      "date": "2026-06-25",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Completed"
+    },
+    {
+      "id": "S015",
+      "date": "2026-06-25",
+      "type": "Morning",
+      "employeeId": "EMP005",
+      "status": "Completed"
+    },
+    {
+      "id": "S016",
+      "date": "2026-06-25",
+      "type": "Afternoon",
+      "employeeId": "EMP013",
+      "status": "Completed"
+    },
+    {
+      "id": "S017",
+      "date": "2026-06-25",
+      "type": "Morning",
+      "employeeId": "EMP010",
+      "status": "Completed"
+    },
+    {
+      "id": "S018",
+      "date": "2026-06-26",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Completed"
+    },
+    {
+      "id": "S019",
+      "date": "2026-06-26",
+      "type": "Afternoon",
+      "employeeId": "EMP005",
+      "status": "Completed"
+    },
+    {
+      "id": "S020",
+      "date": "2026-06-26",
+      "type": "Morning",
+      "employeeId": "EMP013",
+      "status": "Completed"
+    },
+    {
+      "id": "S021",
+      "date": "2026-06-26",
+      "type": "Afternoon",
+      "employeeId": "EMP010",
+      "status": "Completed"
+    },
+    {
+      "id": "S022",
+      "date": "2026-06-26",
+      "type": "Morning",
+      "employeeId": "EMP011",
+      "status": "Leave"
+    },
+    {
+      "id": "S023",
+      "date": "2026-06-27",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Completed"
+    },
+    {
+      "id": "S024",
+      "date": "2026-06-27",
+      "type": "Morning",
+      "employeeId": "EMP013",
+      "status": "Completed"
+    },
+    {
+      "id": "S025",
+      "date": "2026-06-27",
+      "type": "Afternoon",
+      "employeeId": "EMP005",
+      "status": "Completed"
+    },
+    {
+      "id": "S026",
+      "date": "2026-06-27",
+      "type": "Morning",
+      "employeeId": "EMP010",
+      "status": "Completed"
+    },
+    {
+      "id": "S027",
+      "date": "2026-06-27",
+      "type": "Afternoon",
+      "employeeId": "EMP011",
+      "status": "Completed"
+    },
+    {
+      "id": "S028",
+      "date": "2026-06-27",
+      "type": "Custom",
+      "employeeId": "EMP003",
+      "status": "Completed"
+    },
+    {
+      "id": "S029",
+      "date": "2026-06-28",
+      "type": "Morning",
+      "employeeId": "EMP004",
+      "status": "Assigned"
+    },
+    {
+      "id": "S030",
+      "date": "2026-06-28",
+      "type": "Morning",
+      "employeeId": "EMP013",
+      "status": "Assigned"
+    },
+    {
+      "id": "S031",
+      "date": "2026-06-28",
+      "type": "Afternoon",
+      "employeeId": "EMP005",
+      "status": "Assigned"
+    },
+    {
+      "id": "S032",
+      "date": "2026-06-28",
+      "type": "Morning",
+      "employeeId": "EMP010",
+      "status": "Assigned"
+    },
+    {
+      "id": "S033",
+      "date": "2026-06-28",
+      "type": "Afternoon",
+      "employeeId": "EMP011",
+      "status": "Leave"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "A001",
+      "date": "2026-06-22",
+      "employeeId": "EMP004",
+      "checkIn": "07:55:00",
+      "checkOut": "17:05:00",
+      "status": "On Time"
+    },
+    {
+      "id": "A002",
+      "date": "2026-06-22",
+      "employeeId": "EMP005",
+      "checkIn": "12:58:00",
+      "checkOut": "21:02:00",
+      "status": "On Time"
+    },
+    {
+      "id": "A029",
+      "date": "2026-06-28",
+      "employeeId": "EMP004",
+      "checkIn": "07:54:00",
+      "checkOut": null,
+      "status": "On Time"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "VEH001",
+      "licensePlate": "51F-1234",
+      "vin": "1T1AA11A1AAAAAAAA",
+      "customerId": "CUS001",
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2021,
+      "mileage": 45000,
+      "lastVisit": "2026-06-28",
+      "healthScore": 80,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "VEH002",
+      "licensePlate": "30G-5678",
+      "vin": "1H1BB22B2BBBBBBBB",
+      "customerId": "CUS002",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "mileage": 62000,
+      "lastVisit": "2026-06-22",
+      "healthScore": 84,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "VEH003",
+      "licensePlate": "29A-9999",
+      "vin": "1F1CC33C3CCCCCCC1",
+      "customerId": "CUS003",
+      "brand": "Ford",
+      "model": "F-150",
+      "year": 2022,
+      "mileage": 38000,
+      "lastVisit": "2026-06-22",
+      "healthScore": 78,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "VEH004",
+      "licensePlate": "51H-4455",
+      "vin": "1B1DD44D4DDDDDDD2",
+      "customerId": "CUS001",
+      "brand": "BMW",
+      "model": "3-Series",
+      "year": 2020,
+      "mileage": 54000,
+      "lastVisit": "2026-06-24",
+      "healthScore": 56,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "VEH005",
+      "licensePlate": "30A-1122",
+      "vin": "1H1EE55E5EEEEEEE3",
+      "customerId": "CUS004",
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2018,
+      "mileage": 85000,
+      "lastVisit": "2026-06-25",
+      "healthScore": 72,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "VEH006",
+      "licensePlate": "29A-8888",
+      "vin": "1M1FF66F6FFFFFFF4",
+      "customerId": "CUS002",
+      "brand": "Mercedes",
+      "model": "C-Class",
+      "year": 2023,
+      "mileage": 12000,
+      "lastVisit": "2026-06-23",
+      "healthScore": 98,
+      "branchId": "BR-01"
+    },
+    {
+      "id": "VEH007",
+      "licensePlate": "51F-5555",
+      "vin": "1M1GG77G7GGGGGGG5",
+      "customerId": "CUS005",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "year": 2021,
+      "mileage": 31000,
+      "lastVisit": "2026-06-28",
+      "healthScore": 88,
+      "branchId": "BR-02"
+    },
+    {
+      "id": "VEH008",
+      "licensePlate": "30G-3333",
+      "vin": "1J1HH88H8HHHHHHH6",
+      "customerId": "CUS003",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": 2017,
+      "mileage": 98000,
+      "lastVisit": "2026-06-28",
+      "healthScore": 48,
+      "branchId": "BR-02"
+    }
+  ],
+  "customers": [
+    {
+      "id": "CUS001",
+      "name": "Alice Cooper",
+      "phone": "+1 (555) 019-9911",
+      "email": "alice.c@gmail.com",
+      "loyaltyTier": "Platinum",
+      "totalSpending": 12572,
+      "lastVisit": "2026-06-28",
+      "preferredContactMethod": "Email",
+      "marketingOptIn": true,
+      "notes": [
+        "Demanding customer",
+        "Prefers synthetic oil only"
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "CUS002",
+      "name": "Bruce Wayne",
+      "phone": "+1 (555) 018-8822",
+      "email": "bruce.w@waynecorp.com",
+      "loyaltyTier": "Gold",
+      "totalSpending": 8200,
+      "lastVisit": "2026-06-23",
+      "preferredContactMethod": "Phone",
+      "marketingOptIn": false,
+      "notes": [
+        "Loyal fleet customer"
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "CUS003",
+      "name": "Clark Kent",
+      "phone": "+1 (555) 017-7733",
+      "email": "clark.k@dailyplanet.com",
+      "loyaltyTier": "Silver",
+      "totalSpending": 3400,
+      "lastVisit": "2026-06-22",
+      "preferredContactMethod": "SMS",
+      "marketingOptIn": true,
+      "notes": [
+        "Always check tire pressures"
+      ],
+      "branchId": "BR-02"
+    },
+    {
+      "id": "CUS004",
+      "name": "Diana Prince",
+      "phone": "+1 (555) 016-6644",
+      "email": "diana.p@museum.org",
+      "loyaltyTier": "Bronze",
+      "totalSpending": 1500,
+      "lastVisit": "2026-06-25",
+      "preferredContactMethod": "Email",
+      "marketingOptIn": true,
+      "notes": [
+        "Prefers text notifications for pickup"
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "CUS005",
+      "name": "Evan Stone",
+      "phone": "+1 (555) 015-5555",
+      "email": "evan.stone@yahoo.com",
+      "loyaltyTier": "Silver",
+      "totalSpending": 2200,
+      "lastVisit": "2026-06-28",
+      "preferredContactMethod": "SMS",
+      "marketingOptIn": false,
+      "notes": [],
+      "branchId": "BR-02"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "APT001",
+      "customerId": "CUS005",
+      "vehicleId": "VEH007",
+      "serviceType": "Diagnostic Check",
+      "assignedTechId": "EMP010",
+      "serviceBayId": 1,
+      "startTime": "2026-06-28 09:00",
+      "endTime": "2026-06-28 11:00",
+      "estimatedDuration": 2,
+      "status": "Completed",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "APT002",
+      "customerId": "CUS001",
+      "vehicleId": "VEH001",
+      "serviceType": "Brake Pads Replacement",
+      "assignedTechId": "EMP004",
+      "serviceBayId": 2,
+      "startTime": "2026-06-28 10:00",
+      "endTime": "2026-06-28 12:00",
+      "estimatedDuration": 2,
+      "status": "In Service",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "APT003",
+      "customerId": "CUS002",
+      "vehicleId": "VEH006",
+      "serviceType": "AC Service",
+      "assignedTechId": "EMP013",
+      "serviceBayId": 3,
+      "startTime": "2026-06-28 11:00",
+      "endTime": "2026-06-28 13:00",
+      "estimatedDuration": 2,
+      "status": "In Service",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "APT004",
+      "customerId": "CUS003",
+      "vehicleId": "VEH008",
+      "serviceType": "Suspension Inspect",
+      "assignedTechId": "EMP011",
+      "serviceBayId": 4,
+      "startTime": "2026-06-28 13:00",
+      "endTime": "2026-06-28 15:30",
+      "estimatedDuration": 2.5,
+      "status": "Scheduled",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "APT005",
+      "customerId": "CUS004",
+      "vehicleId": "VEH005",
+      "serviceType": "Wiper Blades replacement",
+      "assignedTechId": "EMP005",
+      "serviceBayId": 5,
+      "startTime": "2026-06-28 14:00",
+      "endTime": "2026-06-28 15:00",
+      "estimatedDuration": 1,
+      "status": "Scheduled",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "APT006",
+      "customerId": "CUS002",
+      "vehicleId": "VEH002",
+      "serviceType": "60k Mile Tuneup",
+      "assignedTechId": "EMP013",
+      "serviceBayId": 3,
+      "startTime": "2026-06-29 09:00",
+      "endTime": "2026-06-29 12:00",
+      "estimatedDuration": 3,
+      "status": "Scheduled",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "APT007",
+      "customerId": "CUS001",
+      "vehicleId": "VEH004",
+      "serviceType": "Serpentine Belt Inspection",
+      "assignedTechId": "EMP004",
+      "serviceBayId": 2,
+      "startTime": "2026-06-29 10:00",
+      "endTime": "2026-06-29 11:30",
+      "estimatedDuration": 1.5,
+      "status": "Scheduled",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "APT008",
+      "customerId": "CUS003",
+      "vehicleId": "VEH003",
+      "serviceType": "Alternator Install",
+      "assignedTechId": "EMP010",
+      "serviceBayId": 1,
+      "startTime": "2026-06-29 13:00",
+      "endTime": "2026-06-29 15:00",
+      "estimatedDuration": 2,
+      "status": "Scheduled",
+      "branchId": "BR-02"
+    }
+  ],
+  "serviceBays": [
+    {
+      "id": 1,
+      "name": "Service Bay 1 (Heavy Lift)",
+      "status": "Available",
+      "branchId": "BR-01"
+    },
+    {
+      "id": 2,
+      "name": "Service Bay 2 (Alignment)",
+      "status": "Available",
+      "currentVehicleId": "VEH001",
+      "assignedTechId": "EMP004",
+      "progress": 0,
+      "eta": "12:00",
+      "branchId": "BR-01"
+    },
+    {
+      "id": 3,
+      "name": "Service Bay 3 (Standard)",
+      "status": "Occupied",
+      "currentVehicleId": "VEH006",
+      "assignedTechId": "EMP013",
+      "progress": 35,
+      "eta": "13:00",
+      "branchId": "BR-01"
+    },
+    {
+      "id": 4,
+      "name": "Service Bay 4 (Standard)",
+      "status": "Inspection",
+      "currentVehicleId": "VEH004",
+      "assignedTechId": "EMP004",
+      "progress": 15,
+      "eta": "11:30",
+      "branchId": "BR-01"
+    },
+    {
+      "id": 5,
+      "name": "Service Bay 5 (Quick Lube)",
+      "status": "Available",
+      "branchId": "BR-01"
+    },
+    {
+      "id": 6,
+      "name": "Service Bay 1 (Heavy Lift)",
+      "status": "Completed",
+      "currentVehicleId": "VEH007",
+      "assignedTechId": "EMP010",
+      "progress": 100,
+      "eta": "11:00",
+      "branchId": "BR-02"
+    },
+    {
+      "id": 7,
+      "name": "Service Bay 2 (Alignment)",
+      "status": "Available",
+      "branchId": "BR-02"
+    },
+    {
+      "id": 8,
+      "name": "Service Bay 3 (Standard)",
+      "status": "Available",
+      "branchId": "BR-02"
+    },
+    {
+      "id": 9,
+      "name": "Service Bay 4 (Standard)",
+      "status": "Available",
+      "branchId": "BR-02"
+    },
+    {
+      "id": 10,
+      "name": "Service Bay 5 (Quick Lube)",
+      "status": "Available",
+      "branchId": "BR-02"
+    }
+  ],
+  "inspections": [
+    {
+      "id": "ISP001",
+      "workOrderId": "WO001",
+      "vehicleId": "VEH001",
+      "date": "2026-06-22",
+      "branchId": "BR-01",
+      "categories": [
+        {
+          "name": "Engine",
+          "status": "Pass",
+          "notes": "Purrs like a kitten"
+        },
+        {
+          "name": "Transmission",
+          "status": "Pass",
+          "notes": "No slips noted"
+        },
+        {
+          "name": "Brakes",
+          "status": "Warning",
+          "notes": "Brake pads at 4mm"
+        },
+        {
+          "name": "Suspension",
+          "status": "Pass",
+          "notes": "Bushings stable"
+        },
+        {
+          "name": "Battery",
+          "status": "Pass",
+          "notes": "Tested 12.6V"
+        },
+        {
+          "name": "Tires",
+          "status": "Pass",
+          "notes": "Tread depth at 5/32"
+        },
+        {
+          "name": "Exterior",
+          "status": "Pass",
+          "notes": "Clean"
+        },
+        {
+          "name": "Interior",
+          "status": "Pass",
+          "notes": "Minor console wear"
+        }
+      ]
+    },
+    {
+      "id": "ISP002",
+      "workOrderId": "WO003",
+      "vehicleId": "VEH003",
+      "date": "2026-06-22",
+      "branchId": "BR-02",
+      "categories": [
+        {
+          "name": "Engine",
+          "status": "Pass",
+          "notes": "Good"
+        },
+        {
+          "name": "Transmission",
+          "status": "Pass",
+          "notes": "Good"
+        },
+        {
+          "name": "Brakes",
+          "status": "Pass",
+          "notes": "Good"
+        },
+        {
+          "name": "Suspension",
+          "status": "Pass",
+          "notes": "Good"
+        },
+        {
+          "name": "Battery",
+          "status": "Critical",
+          "notes": "Battery tested bad, dead cell"
+        },
+        {
+          "name": "Tires",
+          "status": "Pass",
+          "notes": "Good"
+        },
+        {
+          "name": "Exterior",
+          "status": "Pass",
+          "notes": "Clean"
+        },
+        {
+          "name": "Interior",
+          "status": "Pass",
+          "notes": "Good"
+        }
+      ]
+    },
+    {
+      "workOrderId": "WO-GEN",
+      "vehicleId": "VEH001",
+      "date": "2026-06-28",
+      "categories": [
+        {
+          "name": "Engine",
+          "status": "Critical",
+          "notes": ""
+        },
+        {
+          "name": "Transmission",
+          "status": "Pass",
+          "notes": ""
+        },
+        {
+          "name": "Brakes",
+          "status": "Warning",
+          "notes": ""
+        },
+        {
+          "name": "Suspension",
+          "status": "Pass",
+          "notes": ""
+        },
+        {
+          "name": "Battery",
+          "status": "Pass",
+          "notes": ""
+        },
+        {
+          "name": "Tires",
+          "status": "Pass",
+          "notes": ""
+        },
+        {
+          "name": "Exterior",
+          "status": "Pass",
+          "notes": ""
+        },
+        {
+          "name": "Interior",
+          "status": "Pass",
+          "notes": ""
+        }
+      ],
+      "branchId": "BR-01",
+      "id": "ISP003"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "T001",
+      "date": "2026-04-05",
+      "type": "Expense",
+      "sourceOrCategory": "Rent",
+      "amount": 3500,
+      "description": "Downtown Facility Rent",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T002",
+      "date": "2026-04-05",
+      "type": "Expense",
+      "sourceOrCategory": "Rent",
+      "amount": 3000,
+      "description": "Westside Facility Rent",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T003",
+      "date": "2026-04-10",
+      "type": "Expense",
+      "sourceOrCategory": "Utilities",
+      "amount": 850,
+      "description": "Electricity & Water Bill",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T004",
+      "date": "2026-04-10",
+      "type": "Expense",
+      "sourceOrCategory": "Utilities",
+      "amount": 720,
+      "description": "Electricity & Water Bill",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T005",
+      "date": "2026-04-15",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 4200,
+      "description": "Major engine repair jobs weekly settlement",
+      "customerId": "CUS001",
+      "vehicleId": "VEH001",
+      "workOrderId": "WO001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T006",
+      "date": "2026-04-15",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 2800,
+      "description": "Weekly brake & alignment repairs",
+      "customerId": "CUS003",
+      "vehicleId": "VEH003",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T007",
+      "date": "2026-04-18",
+      "type": "Revenue",
+      "sourceOrCategory": "Spare Parts Sales",
+      "amount": 1500,
+      "description": "Walk-in retail spare parts sales",
+      "customerId": "CUS002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T008",
+      "date": "2026-04-20",
+      "type": "Expense",
+      "sourceOrCategory": "Parts Purchases",
+      "amount": 1800,
+      "description": "Restocking brake rotors & filters from Apex",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T009",
+      "date": "2026-04-25",
+      "type": "Expense",
+      "sourceOrCategory": "Payroll",
+      "amount": 18500,
+      "description": "April Staff Payroll",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T010",
+      "date": "2026-04-25",
+      "type": "Expense",
+      "sourceOrCategory": "Payroll",
+      "amount": 14200,
+      "description": "April Staff Payroll",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T011",
+      "date": "2026-04-28",
+      "type": "Revenue",
+      "sourceOrCategory": "Maintenance Packages",
+      "amount": 3200,
+      "description": "Corporate fleet preventive maintenance",
+      "customerId": "CUS002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T012",
+      "date": "2026-04-30",
+      "type": "Revenue",
+      "sourceOrCategory": "Insurance Claims",
+      "amount": 5400,
+      "description": "Accident repair claim payoff",
+      "customerId": "CUS001",
+      "vehicleId": "VEH004",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T013",
+      "date": "2026-05-05",
+      "type": "Expense",
+      "sourceOrCategory": "Rent",
+      "amount": 3500,
+      "description": "Downtown Facility Rent",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T014",
+      "date": "2026-05-05",
+      "type": "Expense",
+      "sourceOrCategory": "Rent",
+      "amount": 3000,
+      "description": "Westside Facility Rent",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T015",
+      "date": "2026-05-10",
+      "type": "Expense",
+      "sourceOrCategory": "Utilities",
+      "amount": 900,
+      "description": "Electricity & Water Bill",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T016",
+      "date": "2026-05-10",
+      "type": "Expense",
+      "sourceOrCategory": "Utilities",
+      "amount": 750,
+      "description": "Electricity & Water Bill",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T017",
+      "date": "2026-05-15",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 4800,
+      "description": "Suspension & Steering overhaul jobs",
+      "customerId": "CUS001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T018",
+      "date": "2026-05-15",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 3100,
+      "description": "Transmission servicing jobs",
+      "customerId": "CUS003",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T019",
+      "date": "2026-05-18",
+      "type": "Revenue",
+      "sourceOrCategory": "Spare Parts Sales",
+      "amount": 2100,
+      "description": "Walk-in retail parts & accessories",
+      "customerId": "CUS002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T020",
+      "date": "2026-05-20",
+      "type": "Expense",
+      "sourceOrCategory": "Parts Purchases",
+      "amount": 2200,
+      "description": "Restocking batteries & belts",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T021",
+      "date": "2026-05-22",
+      "type": "Revenue",
+      "sourceOrCategory": "Vehicle Inspection Services",
+      "amount": 950,
+      "description": "State vehicle inspection runs",
+      "customerId": "CUS005",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T022",
+      "date": "2026-05-25",
+      "type": "Expense",
+      "sourceOrCategory": "Payroll",
+      "amount": 18900,
+      "description": "May Staff Payroll",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T023",
+      "date": "2026-05-25",
+      "type": "Expense",
+      "sourceOrCategory": "Payroll",
+      "amount": 14500,
+      "description": "May Staff Payroll",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T024",
+      "date": "2026-05-28",
+      "type": "Revenue",
+      "sourceOrCategory": "Maintenance Packages",
+      "amount": 3500,
+      "description": "Pre-paid standard lube packages",
+      "customerId": "CUS005",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T025",
+      "date": "2026-05-29",
+      "type": "Revenue",
+      "sourceOrCategory": "Insurance Claims",
+      "amount": 6200,
+      "description": "Allstate claims payout",
+      "customerId": "CUS001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T026",
+      "date": "2026-06-05",
+      "type": "Expense",
+      "sourceOrCategory": "Rent",
+      "amount": 3500,
+      "description": "Downtown Facility Rent",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T027",
+      "date": "2026-06-05",
+      "type": "Expense",
+      "sourceOrCategory": "Rent",
+      "amount": 3000,
+      "description": "Westside Facility Rent",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T028",
+      "date": "2026-06-08",
+      "type": "Expense",
+      "sourceOrCategory": "Internet",
+      "amount": 180,
+      "description": "Fiber Gigabit Internet Subscription",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T029",
+      "date": "2026-06-08",
+      "type": "Expense",
+      "sourceOrCategory": "Internet",
+      "amount": 180,
+      "description": "Fiber Gigabit Internet Subscription",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T030",
+      "date": "2026-06-10",
+      "type": "Expense",
+      "sourceOrCategory": "Utilities",
+      "amount": 1100,
+      "description": "Electricity & Water high usage",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T031",
+      "date": "2026-06-10",
+      "type": "Expense",
+      "sourceOrCategory": "Utilities",
+      "amount": 950,
+      "description": "Electricity & Water high usage",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T032",
+      "date": "2026-06-12",
+      "type": "Expense",
+      "sourceOrCategory": "Software Subscriptions",
+      "amount": 450,
+      "description": "Diagnostic scanner online license",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T033",
+      "date": "2026-06-15",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 5400,
+      "description": "Full engines overhauls",
+      "customerId": "CUS001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T034",
+      "date": "2026-06-15",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 3900,
+      "description": "Suspension jobs & AC refills",
+      "customerId": "CUS003",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T035",
+      "date": "2026-06-18",
+      "type": "Revenue",
+      "sourceOrCategory": "Spare Parts Sales",
+      "amount": 2500,
+      "description": "Retail catalog sales",
+      "customerId": "CUS002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T036",
+      "date": "2026-06-18",
+      "type": "Revenue",
+      "sourceOrCategory": "Spare Parts Sales",
+      "amount": 1800,
+      "description": "Retail parts sales",
+      "customerId": "CUS005",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T037",
+      "date": "2026-06-20",
+      "type": "Expense",
+      "sourceOrCategory": "Parts Purchases",
+      "amount": 3100,
+      "description": "Major batch alternator purchases",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T038",
+      "date": "2026-06-20",
+      "type": "Expense",
+      "sourceOrCategory": "Parts Purchases",
+      "amount": 2400,
+      "description": "Lubricants and brake fluid bulk restocking",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T039",
+      "date": "2026-06-22",
+      "type": "Revenue",
+      "sourceOrCategory": "Maintenance Packages",
+      "amount": 4100,
+      "description": "Logistics fleet oil filter service bundle",
+      "customerId": "CUS002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T040",
+      "date": "2026-06-24",
+      "type": "Revenue",
+      "sourceOrCategory": "Vehicle Inspection Services",
+      "amount": 1200,
+      "description": "Diagnostic and emissions testing",
+      "customerId": "CUS001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T041",
+      "date": "2026-06-25",
+      "type": "Expense",
+      "sourceOrCategory": "Payroll",
+      "amount": 21500,
+      "description": "June Staff Payroll (Including Overtime)",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T042",
+      "date": "2026-06-25",
+      "type": "Expense",
+      "sourceOrCategory": "Payroll",
+      "amount": 15800,
+      "description": "June Staff Payroll",
+      "branchId": "BR-02"
+    },
+    {
+      "id": "T043",
+      "date": "2026-06-26",
+      "type": "Revenue",
+      "sourceOrCategory": "Insurance Claims",
+      "amount": 7300,
+      "description": "Geico payout for crash rebuild",
+      "customerId": "CUS001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "T-1782618871516",
+      "date": "2026-06-28",
+      "type": "Revenue",
+      "sourceOrCategory": "Repair Services",
+      "amount": 172,
+      "description": "Disbursed billing statement for completed job WO004",
+      "customerId": "CUS001",
+      "vehicleId": "VEH004",
+      "workOrderId": "WO004",
+      "branchId": "BR-01"
+    }
+  ],
+  "workOrders": [
+    {
+      "id": "WO001",
+      "customerId": "CUS001",
+      "vehicleId": "VEH001",
+      "appointmentId": "APT002",
+      "serviceBayId": 2,
+      "description": "Replace worn front brake pads and resurface rotors. Oil change.",
+      "assignedTechId": "EMP004",
+      "status": "Repair",
+      "partsUsed": [
+        {
+          "partId": "P001",
+          "quantity": 2
+        },
+        {
+          "partId": "P002",
+          "quantity": 1
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T08:00:00Z",
+          "exitedAt": "2026-06-28T08:30:00Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-28T08:30:00Z",
+          "exitedAt": "2026-06-28T09:15:00Z"
+        },
+        {
+          "stage": "Diagnosis",
+          "enteredAt": "2026-06-28T09:15:00Z",
+          "exitedAt": "2026-06-28T09:45:00Z"
+        },
+        {
+          "stage": "Repair",
+          "enteredAt": "2026-06-28T09:45:00Z"
+        }
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "WO002",
+      "customerId": "CUS002",
+      "vehicleId": "VEH002",
+      "appointmentId": "APT006",
+      "serviceBayId": 3,
+      "description": "Scheduled 60,000-mile maintenance check. Spark plugs replacement, replace cabin filter.",
+      "assignedTechId": "EMP013",
+      "status": "Inspection",
+      "partsUsed": [
+        {
+          "partId": "P003",
+          "quantity": 4
+        },
+        {
+          "partId": "P006",
+          "quantity": 1
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T09:00:00Z",
+          "exitedAt": "2026-06-28T09:15:00Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-28T09:15:00Z"
+        }
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "WO003",
+      "customerId": "CUS003",
+      "vehicleId": "VEH003",
+      "appointmentId": "APT008",
+      "serviceBayId": 1,
+      "description": "Alternator replacement. Battery tested weak, replace battery.",
+      "assignedTechId": "EMP010",
+      "status": "Quality Check",
+      "partsUsed": [
+        {
+          "partId": "P004",
+          "quantity": 1
+        },
+        {
+          "partId": "P005",
+          "quantity": 1
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-27T08:00:00Z",
+          "exitedAt": "2026-06-27T08:30:00Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-27T08:30:00Z",
+          "exitedAt": "2026-06-27T09:30:00Z"
+        },
+        {
+          "stage": "Diagnosis",
+          "enteredAt": "2026-06-27T09:30:00Z",
+          "exitedAt": "2026-06-27T10:15:00Z"
+        },
+        {
+          "stage": "Repair",
+          "enteredAt": "2026-06-27T10:15:00Z",
+          "exitedAt": "2026-06-27T14:00:00Z"
+        },
+        {
+          "stage": "Quality Check",
+          "enteredAt": "2026-06-27T14:00:00Z"
+        }
+      ],
+      "branchId": "BR-02"
+    },
+    {
+      "id": "WO004",
+      "customerId": "CUS001",
+      "vehicleId": "VEH004",
+      "appointmentId": "APT007",
+      "serviceBayId": 2,
+      "description": "Squealing noise from engine bay. Inspect belt, replace serpentine belt and tensioner.",
+      "assignedTechId": "EMP004",
+      "status": "Delivered",
+      "partsUsed": [
+        {
+          "partId": "P009",
+          "quantity": 1
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T10:00:00Z",
+          "exitedAt": "2026-06-28T03:53:55.462Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-28T03:53:55.462Z",
+          "exitedAt": "2026-06-28T03:53:59.801Z"
+        },
+        {
+          "stage": "Diagnosis",
+          "enteredAt": "2026-06-28T03:53:59.801Z",
+          "exitedAt": "2026-06-28T03:54:04.267Z"
+        },
+        {
+          "stage": "Waiting Parts",
+          "enteredAt": "2026-06-28T03:54:04.267Z",
+          "exitedAt": "2026-06-28T03:54:08.907Z"
+        },
+        {
+          "stage": "Repair",
+          "enteredAt": "2026-06-28T03:54:08.907Z",
+          "exitedAt": "2026-06-28T03:54:18.668Z"
+        },
+        {
+          "stage": "Quality Check",
+          "enteredAt": "2026-06-28T03:54:18.668Z",
+          "exitedAt": "2026-06-28T03:54:24.914Z"
+        },
+        {
+          "stage": "Ready Pickup",
+          "enteredAt": "2026-06-28T03:54:24.914Z",
+          "exitedAt": "2026-06-28T03:54:31.513Z"
+        },
+        {
+          "stage": "Delivered",
+          "enteredAt": "2026-06-28T03:54:31.513Z"
+        }
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "WO005",
+      "customerId": "CUS004",
+      "vehicleId": "VEH005",
+      "appointmentId": "APT005",
+      "serviceBayId": 5,
+      "description": "Wiper motor fails. Replace wiper blades and inspect motor assembly.",
+      "assignedTechId": "EMP005",
+      "status": "Inspection",
+      "partsUsed": [
+        {
+          "partId": "P007",
+          "quantity": 2
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T10:30:00Z",
+          "exitedAt": "2026-06-28T03:58:06.846Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-28T03:58:06.846Z"
+        }
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "WO006",
+      "customerId": "CUS002",
+      "vehicleId": "VEH006",
+      "appointmentId": "APT003",
+      "serviceBayId": 3,
+      "description": "AC blowing hot air. Check for leaks, refill refrigerant and replace cabin filter.",
+      "assignedTechId": "EMP013",
+      "status": "Waiting Parts",
+      "partsUsed": [
+        {
+          "partId": "P006",
+          "quantity": 1
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T09:30:00Z",
+          "exitedAt": "2026-06-28T10:00:00Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-28T10:00:00Z",
+          "exitedAt": "2026-06-28T10:30:00Z"
+        },
+        {
+          "stage": "Waiting Parts",
+          "enteredAt": "2026-06-28T10:30:00Z"
+        }
+      ],
+      "branchId": "BR-01"
+    },
+    {
+      "id": "WO007",
+      "customerId": "CUS005",
+      "vehicleId": "VEH007",
+      "appointmentId": "APT001",
+      "description": "Headlight bulb out. Replace driver-side low-beam headlight bulb.",
+      "assignedTechId": "EMP010",
+      "status": "Delivered",
+      "partsUsed": [
+        {
+          "partId": "P010",
+          "quantity": 1
+        }
+      ],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T08:00:00Z",
+          "exitedAt": "2026-06-28T08:15:00Z"
+        },
+        {
+          "stage": "Inspection",
+          "enteredAt": "2026-06-28T08:15:00Z",
+          "exitedAt": "2026-06-28T08:45:00Z"
+        },
+        {
+          "stage": "Repair",
+          "enteredAt": "2026-06-28T08:45:00Z",
+          "exitedAt": "2026-06-28T09:15:00Z"
+        },
+        {
+          "stage": "Quality Check",
+          "enteredAt": "2026-06-28T09:15:00Z",
+          "exitedAt": "2026-06-28T09:30:00Z"
+        },
+        {
+          "stage": "Ready Pickup",
+          "enteredAt": "2026-06-28T09:30:00Z",
+          "exitedAt": "2026-06-28T10:00:00Z"
+        },
+        {
+          "stage": "Delivered",
+          "enteredAt": "2026-06-28T10:00:00Z"
+        }
+      ],
+      "branchId": "BR-02"
+    },
+    {
+      "id": "WO008",
+      "customerId": "CUS003",
+      "vehicleId": "VEH008",
+      "appointmentId": "APT004",
+      "description": "Suspension squeaks. Inspect shock absorbers and control arm bushings.",
+      "assignedTechId": "EMP011",
+      "status": "Diagnosis",
+      "partsUsed": [],
+      "stageHistory": [
+        {
+          "stage": "Check In",
+          "enteredAt": "2026-06-28T10:00:00Z",
+          "exitedAt": "2026-06-28T10:15:00Z"
+        },
+        {
+          "stage": "Diagnosis",
+          "enteredAt": "2026-06-28T10:15:00Z"
+        }
+      ],
+      "branchId": "BR-02"
+    }
+  ],
+  "parts": [
+    {
+      "id": "P001",
+      "name": "Ceramic Front Brake Pads",
+      "sku": "BRK-PD-F01",
+      "stock": 4,
+      "minStock": 10,
+      "unitPrice": 45,
+      "supplierId": "SUP001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P002",
+      "name": "Synthetic Engine Oil 5W-30 (1L)",
+      "sku": "LUB-OIL-5W30",
+      "stock": 45,
+      "minStock": 20,
+      "unitPrice": 12.5,
+      "supplierId": "SUP003",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P003",
+      "name": "NGK Iridium Spark Plug",
+      "sku": "IGN-SPK-NGK",
+      "stock": 6,
+      "minStock": 24,
+      "unitPrice": 8,
+      "supplierId": "SUP001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P004",
+      "name": "120A Alternator Assembly",
+      "sku": "ELC-ALT-120A",
+      "stock": 1,
+      "minStock": 3,
+      "unitPrice": 180,
+      "supplierId": "SUP002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P005",
+      "name": "CarQuest 12V Car Battery",
+      "sku": "ELC-BAT-12V",
+      "stock": 2,
+      "minStock": 5,
+      "unitPrice": 110,
+      "supplierId": "SUP002",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P006",
+      "name": "Premium Cabin Air Filter",
+      "sku": "FLT-CAB-PRM",
+      "stock": 12,
+      "minStock": 10,
+      "unitPrice": 18,
+      "supplierId": "SUP001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P007",
+      "name": "All-Season Wiper Blade 22\"",
+      "sku": "WIP-BLD-22AS",
+      "stock": 3,
+      "minStock": 10,
+      "unitPrice": 15,
+      "supplierId": "SUP001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P008",
+      "name": "Vented Brake Rotor (Front)",
+      "sku": "BRK-RTR-F02",
+      "stock": 8,
+      "minStock": 8,
+      "unitPrice": 65,
+      "supplierId": "SUP001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P009",
+      "name": "Serpentine Belt 6PK1230",
+      "sku": "BEL-SPT-6PK",
+      "stock": 2,
+      "minStock": 5,
+      "unitPrice": 22,
+      "supplierId": "SUP001",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "P010",
+      "name": "H7 Halogen Headlight Bulb",
+      "sku": "LGT-BLB-H7",
+      "stock": 15,
+      "minStock": 10,
+      "unitPrice": 9.5,
+      "supplierId": "SUP002",
+      "branchId": "BR-01"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "SUP001",
+      "name": "Apex Auto Parts Wholesale",
+      "contactName": "Robert Chen",
+      "phone": "+1 (555) 012-0099",
+      "email": "sales@apexparts.com",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "SUP002",
+      "name": "CarQuest Wholesale Dist.",
+      "contactName": "Sarah Kelly",
+      "phone": "+1 (555) 013-1122",
+      "email": "orders@carquestdist.com",
+      "branchId": "BR-01"
+    },
+    {
+      "id": "SUP003",
+      "name": "Lubricant Solutions Inc.",
+      "contactName": "Paul Walker",
+      "phone": "+1 (555) 014-2233",
+      "email": "support@lubesol.com",
+      "branchId": "BR-01"
+    }
+  ]
+}
